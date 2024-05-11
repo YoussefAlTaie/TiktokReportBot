@@ -1,0 +1,22 @@
+{
+    "report_url": "",
+    "proxy_scraper": "n",
+    "threads": 100,
+    "report_types": {
+        "Violence": "y",
+        "Sexual Abuse": "y",
+        "Animal Abuse": "y",
+        "Criminal Activities": "y",
+        "Hate": "y",
+        "Bullying": "y",
+        "Suicide Or Self-Harm": "y",
+        "Dangerous Content": "y",
+        "Sexual Content": "y",
+        "Porn": "y",
+        "Drugs": "y",
+        "Firearms Or Weapons": "y",
+        "Sharing Personal Info": "y",
+        "Human Exploitation": "y",
+        "Under Age": "y"
+    }
+}
