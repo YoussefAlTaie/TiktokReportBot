@@ -1,4 +1,4 @@
 Some optimizations have been made to the code due to previous bugs that you may encounter since I am not the original programmer of this code.
 
 Warning for users without a proxy=
-A version of the code has been created that works without a proxy, but be aware that using a large number of Thredders, such as 200, will result in a ban on the IP address, so please choose a smaller number as much as possible. It is recommended to use a proxy version that works well
+A version of the code has been created that works without a proxy, but be aware that using a large number of Threads, such as 200, will result in a ban on the IP address, so please choose a smaller number as much as possible. It is recommended to use a proxy version that works well
